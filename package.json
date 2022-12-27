@@ -8,7 +8,7 @@
      "install": "npm install express"
   },
 
-  "author": "codab",
+  "author": "codablack",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/iamshaunjp/websockets-playlist/issues"
